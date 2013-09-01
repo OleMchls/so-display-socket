@@ -1,0 +1,22 @@
+{
+  "name": "so-display-socket",
+  "version": "0.0.0",
+  "description": "so-display-socket =================",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nesQuick/so-display-socket.git"
+  },
+  "author": "Ole 'nesQuick' Michaelis <Ole.Michaelis@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nesQuick/so-display-socket/issues"
+  },
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
